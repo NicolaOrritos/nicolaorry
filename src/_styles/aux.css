@@ -4,6 +4,12 @@ body {
 	background: #e0e2e2;
 }
 
+#header {
+	background: #e0e2e2 url("../_images/header-pattern.png") repeat-x scroll top left;
+	min-height: 96px;
+	width: 100%;
+	padding-top: 24px;
+}
 
 #footerLeftPart {
 	float: left;
@@ -17,6 +23,11 @@ body {
 	background: #e0e2e2 url("../_images/base.png") no-repeat scroll bottom right;
 	min-height: 360px;
 	min-width: 554px;
+}
+
+#footerContent {
+	float: none;
+	padding-top: 40px;
 }
 
 
@@ -60,8 +71,9 @@ body {
 	text-align: right;
 }
 
-h1 a {
+h1 {
 	text-decoration: none;
-	color: #222222;
+	color: #AAA;
+	text-shadow: 1px 1px #888, -1px -1px #333;
 }
 
