@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>Projects Wiki</title>
+<link>http://www.tiddlywiki.com/</link>
+<description>Projects and related documents - Nicola Orritos</description>
+<language>en-us</language>
+<copyright>Copyright 2008 NicolaOrritos</copyright>
+<pubDate>Thu, 31 Jan 2008 14:02:11 GMT</pubDate>
+<lastBuildDate>Thu, 31 Jan 2008 14:02:11 GMT</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>TiddlyWiki 2.2.4</generator>
+<item>
+<title>Home</title>
+<description>If you wanna see the main page of the wiki: &lt;a tiddlylink=&quot;WikiHome&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#WikiHome&quot; href=&quot;http://www.tiddlywiki.com/#WikiHome&quot; class=&quot;externalLink&quot;&gt;WikiHome&lt;/a&gt;&lt;br&gt;&lt;br&gt;Or you can go &lt;a target=&quot;_blank&quot; title=&quot;External link to  http://nicolaorry.altervista.org&quot; href=&quot;%20http://nicolaorry.altervista.org&quot; class=&quot;externalLink&quot;&gt;here &lt;/a&gt; (to my &quot;official&quot; web-site) or &lt;a target=&quot;_blank&quot; title=&quot;External link to  http://feelingblack.blogspot.com&quot; href=&quot;%20http://feelingblack.blogspot.com&quot; class=&quot;externalLink&quot;&gt;here &lt;/a&gt; (to my blog).</description>
+<category>info</category>
+<category>navigation</category>
+<link>http://www.tiddlywiki.com/#Home</link>
+<pubDate>Thu, 31 Jan 2008 14:02:11 GMT</pubDate>
+</item>
+<item>
+<title>MainMenu</title>
+<description>&lt;a tiddlylink=&quot;Home&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Home&quot; href=&quot;http://www.tiddlywiki.com/#Home&quot; class=&quot;externalLink&quot;&gt;Home&lt;/a&gt;&lt;br&gt;&lt;a tiddlylink=&quot;Undergoing projects&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Undergoing projects&quot; href=&quot;http://www.tiddlywiki.com/#Undergoing%20projects&quot; class=&quot;externalLink&quot;&gt;Undergoing projects&lt;/a&gt;&lt;br&gt;&lt;a tiddlylink=&quot;About this Wiki&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#About this Wiki&quot; href=&quot;http://www.tiddlywiki.com/#About%20this%20Wiki&quot; class=&quot;externalLink&quot;&gt;About this Wiki&lt;/a&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#MainMenu</link>
+<pubDate>Thu, 31 Jan 2008 14:00:29 GMT</pubDate>
+</item>
+<item>
+<title>SideBarOptions</title>
+<description>&lt;a class=&quot;button&quot; title=&quot;Close all displayed tiddlers (except any that are being edited)&quot; href=&quot;javascript:;&quot;&gt;close all&lt;/a&gt;&lt;a class=&quot;button&quot; title=&quot;Link to an URL that retrieves all the currently displayed tiddlers&quot; href=&quot;javascript:;&quot;&gt;permaview&lt;/a&gt;</description>
+<category>K2BlogTheme</category>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SideBarOptions</link>
+<pubDate>Thu, 31 Jan 2008 13:59:00 GMT</pubDate>
+</item>
+<item>
+<title>SideBarOptionsBAK</title>
+<description>&lt;a class=&quot;button&quot; title=&quot;Close all displayed tiddlers (except any that are being edited)&quot; href=&quot;javascript:;&quot;&gt;close all&lt;/a&gt;&lt;a class=&quot;button&quot; title=&quot;Link to an URL that retrieves all the currently displayed tiddlers&quot; href=&quot;javascript:;&quot;&gt;permaview&lt;/a&gt;&lt;a newtemplate=&quot;2&quot; newfocus=&quot;title&quot; isjournal=&quot;false&quot; newtitle=&quot;New Tiddler&quot; accesskey=&quot;N&quot; class=&quot;button&quot; title=&quot;Create a new tiddler&quot; href=&quot;javascript:;&quot;&gt;new tiddler&lt;/a&gt;&lt;a newtemplate=&quot;2&quot; newfocus=&quot;text&quot; isjournal=&quot;true&quot; newtitle=&quot;DD MMM YYYY&quot; accesskey=&quot;J&quot; class=&quot;button&quot; title=&quot;Create a new tiddler from the current date and time&quot; href=&quot;javascript:;&quot;&gt;new journal&lt;/a&gt;&lt;a accesskey=&quot;S&quot; class=&quot;button&quot; title=&quot;Save all tiddlers to create a new TiddlyWiki&quot; href=&quot;javascript:;&quot;&gt;save changes&lt;/a&gt;&lt;a class=&quot;button&quot; title=&quot;Change TiddlyWiki advanced options&quot; href=&quot;javascript:;&quot;&gt;options »&lt;/a&gt;&lt;div tiddler=&quot;OptionsPanel&quot; refresh=&quot;content&quot; style=&quot;display: none;&quot; cookie=&quot;chkSliderOptionsPanel&quot; class=&quot;sliderPanel&quot;&gt;These &lt;a tiddlylink=&quot;InterfaceOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'InterfaceOptions' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;InterfaceOptions&lt;/a&gt; for customising &lt;a tiddlylink=&quot;TiddlyWiki&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'TiddlyWiki' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;TiddlyWiki&lt;/a&gt; are saved in your browser&lt;br&gt;&lt;br&gt;Your username for signing your edits. Write it as a &lt;a tiddlylink=&quot;WikiWord&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'WikiWord' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;WikiWord&lt;/a&gt; (eg &lt;a tiddlylink=&quot;JoeBloggs&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'JoeBloggs' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;JoeBloggs&lt;/a&gt;)&lt;br&gt;&lt;br&gt;&lt;input title=&quot;Username for signing your edits&quot; class=&quot;txtOptionInput&quot; option=&quot;txtUserName&quot;&gt;&lt;br&gt;&lt;input title=&quot;Keep backup file when saving changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkSaveBackups&quot; type=&quot;checkbox&quot;&gt; &lt;a tiddlylink=&quot;SaveBackups&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'SaveBackups' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;SaveBackups&lt;/a&gt;&lt;br&gt;&lt;input title=&quot;Automatically save changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkAutoSave&quot; type=&quot;checkbox&quot;&gt; &lt;a tiddlylink=&quot;AutoSave&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'AutoSave' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;AutoSave&lt;/a&gt;&lt;br&gt;&lt;input title=&quot;Enable regular expressions for searches&quot; class=&quot;chkOptionInput&quot; option=&quot;chkRegExpSearch&quot; type=&quot;checkbox&quot;&gt; &lt;a tiddlylink=&quot;RegExpSearch&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'RegExpSearch' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;RegExpSearch&lt;/a&gt;&lt;br&gt;&lt;input title=&quot;Case-sensitive searching&quot; class=&quot;chkOptionInput&quot; option=&quot;chkCaseSensitiveSearch&quot; type=&quot;checkbox&quot;&gt; &lt;a tiddlylink=&quot;CaseSensitiveSearch&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'CaseSensitiveSearch' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;CaseSensitiveSearch&lt;/a&gt;&lt;br&gt;&lt;input title=&quot;Enable animations&quot; class=&quot;chkOptionInput&quot; option=&quot;chkAnimate&quot; type=&quot;checkbox&quot;&gt; &lt;a tiddlylink=&quot;EnableAnimations&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkNonExisting&quot; title=&quot;The tiddler 'EnableAnimations' doesn't yet exist&quot; href=&quot;javascript:;&quot;&gt;EnableAnimations&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;Also see &lt;a tiddlylink=&quot;AdvancedOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler provides access to several advanced options&quot; href=&quot;javascript:;&quot;&gt;AdvancedOptions&lt;/a&gt;&lt;/div&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SideBarOptionsBAK</link>
+<pubDate>Thu, 31 Jan 2008 13:59:00 GMT</pubDate>
+</item>
+<item>
+<title>PageTemplate</title>
+<description>&amp;lt;div class='header'  macro='gradient vert #FFF #FFF '&amp;gt;&lt;br&gt;&lt;br&gt;     &amp;lt;div class='gradient'  macro='gradient vert #AAA #333 '&amp;gt;                &lt;br&gt;	&amp;lt;div class='titleLine' &amp;gt;&lt;br&gt;&amp;lt;span class='searchBar' macro='search'&amp;gt;&amp;lt;/span&amp;gt;&lt;br&gt;		&amp;lt;span class='siteTitle' refresh='content' tiddler='&lt;a tiddlylink=&quot;SiteTitle&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SiteTitle&quot; href=&quot;http://www.tiddlywiki.com/#SiteTitle&quot; class=&quot;externalLink&quot;&gt;SiteTitle&lt;/a&gt;'&amp;gt;&amp;lt;/span&amp;gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;		&amp;lt;span class='siteSubtitle' refresh='content' tiddler='&lt;a tiddlylink=&quot;SiteSubtitle&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SiteSubtitle&quot; href=&quot;http://www.tiddlywiki.com/#SiteSubtitle&quot; class=&quot;externalLink&quot;&gt;SiteSubtitle&lt;/a&gt;'&amp;gt;&amp;lt;/span&amp;gt;&lt;br&gt;	&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;div  id='topMenu' refresh='content' tiddler='&lt;a tiddlylink=&quot;MainMenu&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#MainMenu&quot; href=&quot;http://www.tiddlywiki.com/#MainMenu&quot; class=&quot;externalLink&quot;&gt;MainMenu&lt;/a&gt;' macro='gradient vert #AAA #FFF '&amp;gt;&lt;br&gt;    &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;div id='bodywrapper'&amp;gt;&lt;br&gt;&amp;lt;div id='sidebar'&amp;gt;&lt;br&gt;	&amp;lt;div id='sidebarOptions' refresh='content' 	tiddler='&lt;a tiddlylink=&quot;SideBarOptions&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SideBarOptions&quot; href=&quot;http://www.tiddlywiki.com/#SideBarOptions&quot; class=&quot;externalLink&quot;&gt;SideBarOptions&lt;/a&gt;'&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;	&amp;lt;div id='sidebarTabs' refresh='content' force='true' tiddler='&lt;a tiddlylink=&quot;SideBarTabs&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SideBarTabs&quot; href=&quot;http://www.tiddlywiki.com/#SideBarTabs&quot; class=&quot;externalLink&quot;&gt;SideBarTabs&lt;/a&gt;'&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;div id='displayArea'&amp;gt;&lt;br&gt;	&amp;lt;div id='messageArea'&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;	&amp;lt;div id='tiddlerDisplay'&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;div id='displayFooter' align='center' refresh='content' tiddler='&lt;a tiddlylink=&quot;SiteFooter&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SiteFooter&quot; href=&quot;http://www.tiddlywiki.com/#SiteFooter&quot; class=&quot;externalLink&quot;&gt;SiteFooter&lt;/a&gt;'&amp;gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;</description>
+<category>K2BlogTheme</category>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#PageTemplate</link>
+<pubDate>Thu, 31 Jan 2008 13:57:00 GMT</pubDate>
+</item>
+<item>
+<title>SideBarTabs</title>
+<description>&lt;div class=&quot;txtMainTab&quot;&gt;&lt;div cookie=&quot;txtMainTab&quot; class=&quot;tabset&quot;&gt;&lt;a content=&quot;TabTimeline&quot; tab=&quot;Timeline&quot; class=&quot;tab tabSelected&quot; title=&quot;Timeline&quot; href=&quot;javascript:;&quot;&gt;Timeline&lt;/a&gt;&lt;a content=&quot;TabTags&quot; tab=&quot;Tags&quot; class=&quot;tab tabUnselected&quot; title=&quot;All tags&quot; href=&quot;javascript:;&quot;&gt;Tags&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;tabContents&quot;&gt;&lt;ul&gt;&lt;li class=&quot;listTitle&quot;&gt;31 January 2008&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;Home&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;Home - NicolaOrritos, Thu 31 Jan 2008 03:02:11 PM CET&quot; href=&quot;javascript:;&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;MainMenu&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the main menu in the left-hand column of the screen&quot; href=&quot;javascript:;&quot;&gt;MainMenu&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the option panel in the right-hand sidebar&quot; href=&quot;javascript:;&quot;&gt;SideBarOptions&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarOptionsBAK&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SideBarOptionsBAK - NicolaOrritos, Thu 31 Jan 2008 02:59:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SideBarOptionsBAK&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;PageTemplate&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;The HTML template in this shadow tiddler determines the overall ~TiddlyWiki layout&quot; href=&quot;javascript:;&quot;&gt;PageTemplate&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarTabs&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the tabs panel in the right-hand sidebar&quot; href=&quot;javascript:;&quot;&gt;SideBarTabs&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarTabsBAK&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SideBarTabsBAK - NicolaOrritos, Thu 31 Jan 2008 02:56:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SideBarTabsBAK&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;AdvancedOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler provides access to several advanced options&quot; href=&quot;javascript:;&quot;&gt;AdvancedOptions&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;About this Wiki&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;About this Wiki - NicolaOrritos, Thu 31 Jan 2008 12:52:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;About this Wiki&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteFooter&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SiteFooter - NicolaOrritos, Thu 31 Jan 2008 12:51:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SiteFooter&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;StyleSheet&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This tiddler can contain custom CSS definitions&quot; href=&quot;javascript:;&quot;&gt;StyleSheet&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;WikiHome&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;WikiHome - NicolaOrritos, Thu 31 Jan 2008 12:35:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;WikiHome&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;DefaultTiddlers&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;The tiddlers listed in this shadow tiddler will be automatically displayed when ~TiddlyWiki starts up&quot; href=&quot;javascript:;&quot;&gt;DefaultTiddlers&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;ColorPalette&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; href=&quot;javascript:;&quot;&gt;ColorPalette&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;LoremIpsum&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;LoremIpsum - NicolaOrritos, Thu 31 Jan 2008 12:00:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;LoremIpsum&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;Undergoing projects&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;Undergoing projects - NicolaOrritos, Thu 31 Jan 2008 11:59:00 AM CET&quot; href=&quot;javascript:;&quot;&gt;Undergoing projects&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteSubtitle&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the second part of the page title&quot; href=&quot;javascript:;&quot;&gt;SiteSubtitle&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteTitle&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the first part of the page title&quot; href=&quot;javascript:;&quot;&gt;SiteTitle&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SideBarTabs</link>
+<pubDate>Thu, 31 Jan 2008 13:57:00 GMT</pubDate>
+</item>
+<item>
+<title>SideBarTabsBAK</title>
+<description>&lt;div class=&quot;txtMainTab&quot;&gt;&lt;div cookie=&quot;txtMainTab&quot; class=&quot;tabset&quot;&gt;&lt;a content=&quot;TabTimeline&quot; tab=&quot;Timeline&quot; class=&quot;tab tabSelected&quot; title=&quot;Timeline&quot; href=&quot;javascript:;&quot;&gt;Timeline&lt;/a&gt;&lt;a content=&quot;TabAll&quot; tab=&quot;All&quot; class=&quot;tab tabUnselected&quot; title=&quot;All tiddlers&quot; href=&quot;javascript:;&quot;&gt;All&lt;/a&gt;&lt;a content=&quot;TabTags&quot; tab=&quot;Tags&quot; class=&quot;tab tabUnselected&quot; title=&quot;All tags&quot; href=&quot;javascript:;&quot;&gt;Tags&lt;/a&gt;&lt;a content=&quot;TabMore&quot; tab=&quot;More&quot; class=&quot;tab tabUnselected&quot; title=&quot;More lists&quot; href=&quot;javascript:;&quot;&gt;More&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;tabContents&quot;&gt;&lt;ul&gt;&lt;li class=&quot;listTitle&quot;&gt;31 January 2008&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;Home&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;Home - NicolaOrritos, Thu 31 Jan 2008 03:02:11 PM CET&quot; href=&quot;javascript:;&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;MainMenu&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the main menu in the left-hand column of the screen&quot; href=&quot;javascript:;&quot;&gt;MainMenu&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the option panel in the right-hand sidebar&quot; href=&quot;javascript:;&quot;&gt;SideBarOptions&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarOptionsBAK&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SideBarOptionsBAK - NicolaOrritos, Thu 31 Jan 2008 02:59:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SideBarOptionsBAK&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;PageTemplate&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;The HTML template in this shadow tiddler determines the overall ~TiddlyWiki layout&quot; href=&quot;javascript:;&quot;&gt;PageTemplate&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarTabs&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the contents of the tabs panel in the right-hand sidebar&quot; href=&quot;javascript:;&quot;&gt;SideBarTabs&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SideBarTabsBAK&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SideBarTabsBAK - NicolaOrritos, Thu 31 Jan 2008 02:56:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SideBarTabsBAK&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;AdvancedOptions&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler provides access to several advanced options&quot; href=&quot;javascript:;&quot;&gt;AdvancedOptions&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;About this Wiki&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;About this Wiki - NicolaOrritos, Thu 31 Jan 2008 12:52:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;About this Wiki&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteFooter&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;SiteFooter - NicolaOrritos, Thu 31 Jan 2008 12:51:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;SiteFooter&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;StyleSheet&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This tiddler can contain custom CSS definitions&quot; href=&quot;javascript:;&quot;&gt;StyleSheet&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;WikiHome&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;WikiHome - NicolaOrritos, Thu 31 Jan 2008 12:35:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;WikiHome&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;DefaultTiddlers&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;The tiddlers listed in this shadow tiddler will be automatically displayed when ~TiddlyWiki starts up&quot; href=&quot;javascript:;&quot;&gt;DefaultTiddlers&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;ColorPalette&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; href=&quot;javascript:;&quot;&gt;ColorPalette&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;LoremIpsum&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;LoremIpsum - NicolaOrritos, Thu 31 Jan 2008 12:00:00 PM CET&quot; href=&quot;javascript:;&quot;&gt;LoremIpsum&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;Undergoing projects&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;Undergoing projects - NicolaOrritos, Thu 31 Jan 2008 11:59:00 AM CET&quot; href=&quot;javascript:;&quot;&gt;Undergoing projects&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteSubtitle&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the second part of the page title&quot; href=&quot;javascript:;&quot;&gt;SiteSubtitle&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a tiddlylink=&quot;SiteTitle&quot; refresh=&quot;link&quot; class=&quot;tiddlyLink tiddlyLinkExisting&quot; title=&quot;This shadow tiddler is used as the first part of the page title&quot; href=&quot;javascript:;&quot;&gt;SiteTitle&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SideBarTabsBAK</link>
+<pubDate>Thu, 31 Jan 2008 13:56:00 GMT</pubDate>
+</item>
+<item>
+<title>AdvancedOptions</title>
+<description>&lt;form class=&quot;wizard&quot;&gt;&lt;h1&gt;Tweak advanced options&lt;/h1&gt;&lt;div class=&quot;wizardBody&quot;&gt;&lt;div&gt;&lt;h2&gt;These options are saved in cookies in your browser&lt;/h2&gt;&lt;div class=&quot;wizardStep&quot;&gt;&lt;div&gt;&lt;table class=&quot;listView twtable&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Option&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;th&gt;Name&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Enable animations&quot; class=&quot;chkOptionInput&quot; option=&quot;chkAnimate&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Enable animations&lt;/td&gt;&lt;td&gt;chkAnimate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Automatically save changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkAutoSave&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Automatically save changes&lt;/td&gt;&lt;td&gt;chkAutoSave&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Name of folder to use for backups&quot; class=&quot;txtOptionInput&quot; option=&quot;txtBackupFolder&quot;&gt;&lt;/td&gt;&lt;td&gt;Name of folder to use for backups&lt;/td&gt;&lt;td&gt;txtBackupFolder&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Case-sensitive searching&quot; class=&quot;chkOptionInput&quot; option=&quot;chkCaseSensitiveSearch&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Case-sensitive searching&lt;/td&gt;&lt;td&gt;chkCaseSensitiveSearch&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Require confirmation before deleting tiddlers&quot; class=&quot;chkOptionInput&quot; option=&quot;chkConfirmDelete&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Require confirmation before deleting tiddlers&lt;/td&gt;&lt;td&gt;chkConfirmDelete&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Default character set for saving changes (Firefox/Mozilla only)&quot; class=&quot;txtOptionInput&quot; option=&quot;txtFileSystemCharSet&quot;&gt;&lt;/td&gt;&lt;td&gt;Default character set for saving changes (Firefox/Mozilla only)&lt;/td&gt;&lt;td&gt;txtFileSystemCharSet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Don't update modifier username and date when editing tiddlers&quot; class=&quot;chkOptionInput&quot; option=&quot;chkForceMinorUpdate&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Don't update modifier username and date when editing tiddlers&lt;/td&gt;&lt;td&gt;chkForceMinorUpdate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Generate an RSS feed when saving changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkGenerateAnRssFeed&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Generate an RSS feed when saving changes&lt;/td&gt;&lt;td&gt;chkGenerateAnRssFeed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Hide editing features when viewed over HTTP&quot; class=&quot;chkOptionInput&quot; option=&quot;chkHttpReadOnly&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Hide editing features when viewed over HTTP&lt;/td&gt;&lt;td&gt;chkHttpReadOnly&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Use the tab key to insert tab characters instead of moving between fields&quot; class=&quot;chkOptionInput&quot; option=&quot;chkInsertTabs&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Use the tab key to insert tab characters instead of moving between fields&lt;/td&gt;&lt;td&gt;chkInsertTabs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Maximum number of rows in edit boxes&quot; class=&quot;txtOptionInput&quot; option=&quot;txtMaxEditRows&quot;&gt;&lt;/td&gt;&lt;td&gt;Maximum number of rows in edit boxes&lt;/td&gt;&lt;td&gt;txtMaxEditRows&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Open external links in a new window&quot; class=&quot;chkOptionInput&quot; option=&quot;chkOpenInNewWindow&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Open external links in a new window&lt;/td&gt;&lt;td&gt;chkOpenInNewWindow&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Enable regular expressions for searches&quot; class=&quot;chkOptionInput&quot; option=&quot;chkRegExpSearch&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Enable regular expressions for searches&lt;/td&gt;&lt;td&gt;chkRegExpSearch&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Keep backup file when saving changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkSaveBackups&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Keep backup file when saving changes&lt;/td&gt;&lt;td&gt;chkSaveBackups&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Generate an empty template when saving changes&quot; class=&quot;chkOptionInput&quot; option=&quot;chkSaveEmptyTemplate&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Generate an empty template when saving changes&lt;/td&gt;&lt;td&gt;chkSaveEmptyTemplate&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Clicking on links to open tiddlers causes them to close&quot; class=&quot;chkOptionInput&quot; option=&quot;chkToggleLinks&quot; type=&quot;checkbox&quot;&gt;&lt;/td&gt;&lt;td&gt;Clicking on links to open tiddlers causes them to close&lt;/td&gt;&lt;td&gt;chkToggleLinks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input title=&quot;Username for signing your edits&quot; class=&quot;txtOptionInput&quot; option=&quot;txtUserName&quot;&gt;&lt;/td&gt;&lt;td&gt;Username for signing your edits&lt;/td&gt;&lt;td&gt;txtUserName&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;input name=&quot;markList&quot; type=&quot;hidden&quot;&gt;&lt;br&gt;&lt;input checked=&quot;false&quot; name=&quot;chkUnknown&quot; type=&quot;checkbox&quot;&gt;Show unknown options&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wizardFooter&quot;&gt;&lt;/div&gt;&lt;/form&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#AdvancedOptions</link>
+<pubDate>Thu, 31 Jan 2008 13:54:00 GMT</pubDate>
+</item>
+<item>
+<title>About this Wiki</title>
+<description>This Wiki is based upon the powerful &lt;a target=&quot;_blank&quot; title=&quot;External link to  http://www.tiddlywiki.com&quot; href=&quot;%20http://www.tiddlywiki.com&quot; class=&quot;externalLink&quot;&gt;TiddlyWiki &lt;/a&gt; &quot;all-in-just-one-&lt;a tiddlylink=&quot;HTML-file&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#HTML-file&quot; href=&quot;http://www.tiddlywiki.com/#HTML-file&quot; class=&quot;externalLink&quot;&gt;HTML-file&lt;/a&gt;&quot; wiki.</description>
+<category>info</category>
+<category>navigation</category>
+<link>http://www.tiddlywiki.com/#%5B%5BAbout%20this%20Wiki%5D%5D</link>
+<pubDate>Thu, 31 Jan 2008 11:52:00 GMT</pubDate>
+</item>
+<item>
+<title>SiteFooter</title>
+<description>CC licensed | &lt;a tiddlylink=&quot;Contact me&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#Contact me&quot; href=&quot;http://www.tiddlywiki.com/#Contact%20me&quot; class=&quot;externalLink&quot;&gt;Contact me&lt;/a&gt; | best viewed with: Firefox, 1280x800</description>
+<category>admin</category>
+<category>info</category>
+<category>navigation</category>
+<link>http://www.tiddlywiki.com/#SiteFooter</link>
+<pubDate>Thu, 31 Jan 2008 11:51:00 GMT</pubDate>
+</item>
+<item>
+<title>StyleSheet</title>
+<description>Inspired by k2&lt;br&gt;&lt;br&gt;&lt;h1&gt;General&lt;/h1&gt;&lt;pre&gt;body {
+ background: #EDEDED;
+}
+
+ #contentWrapper{
+ background: #fff;
+ border:1px solid #DDD;
+ margin: 0 auto;
+ width: 780px;
+ padding:0;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Links&lt;/h1&gt;&lt;pre&gt;a,
+a.tiddlyLink,
+a.button,
+a.externalLink,
+#sidebarOptions .sliderPanel a{
+ color: #1D65BC;
+ text-decoration: none;
+ background: transparent;
+ border: 0;
+}
+
+a:hover,
+a.tiddlyLink:hover,
+a.button:hover,
+a.externalLink:hover,
+#sidebarOptions .sliderPanel a:hover
+{
+ border: 0;
+ color: #1D65BC;
+ text-decoration: underline;
+background:transparent;
+}
+.button:active {background:#1d65bc; border:0;}
+.viewer .button:active, .viewer .marked, .viewer .highlight {
+color: #fff !important;
+background: #3371a3;
+border: 0;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Header&lt;/h1&gt;&lt;pre&gt;.gradient {margin-top:20px; background:#3371A3;}
+
+.titleLine{padding: 80px 40px 32px 40px;}
+
+.titleLine a:hover{color:#fff; border-bottom:1px dotted #eee; text-decoration:none;}
+
+.titleLine a{color:#fff; border-bottom:1px dotted #ccc;}
+
+.siteTitle {
+	font-size: 2.2em;
+        font-weight: bold;
+        color:#fff;
+}
+
+.siteSubtitle {
+	font-size: 1.0em;
+        display: block;
+        margin: .3em auto 1em;
+color:#fff;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;&lt;a tiddlylink=&quot;TopMenu&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#TopMenu&quot; href=&quot;http://www.tiddlywiki.com/#TopMenu&quot; class=&quot;externalLink&quot;&gt;TopMenu&lt;/a&gt;&lt;/h1&gt;&lt;pre&gt;#topMenu br {display:none;  }
+#topMenu { background: #666666; font-size:1em; }
+#topMenu { padding:5px 32px; }
+#topMenu .button, #topMenu .tiddlyLink {
+ margin-left:0.1em; margin-right:0.1em;
+ padding:0.5em;
+ color:white; font-weight:normal;
+}
+#topMenu a.button:hover, #topMenu a.tiddlyLink:hover { background:#fff; color:#333; text-decoration:none;}
+
+ .searchBar {float:right; font-size:0.9em;}
+.searchBar .button {display:block; border:none; color:#ccc;}
+.searchBar .button:hover{border:none; color:#eee;}
+
+.searchBar input{
+	border: 1px inset #1d65bc; background:#dbdee3;
+}
+
+.searchBar input:focus {
+	border: 1px inset #3371a3; background:#fff;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;h1&gt;Display&lt;/h1&gt;&lt;h3&gt;Display General&lt;/h3&gt;&lt;pre&gt;#displayArea { margin: 0em 15.7em 0em 1em; }
+
+#displayFooter {
+ clear: both;
+}
+#displayFooter {
+ clear: both;
+}
+
+#tiddlerDisplay{padding-top:1em;}
+&lt;/pre&gt;&lt;h3&gt;Tiddler&lt;/h3&gt;&lt;pre&gt;.tiddler {margin-bottom:1em; padding-bottom:1em;}
+
+.tiddler {padding-left:2em;}
+
+.title {color:#333; font-size:1.8em; border-bottom:1px solid #333; padding-bottom:0.3px;}
+
+.subtitle { font-size:90%; color:#bbb; padding-left:0.25em; margin-top:0.1em; }
+
+.shadow .title {
+	color: #aaa;
+}
+
+h1,h2,h3,h4,h5 { color: #333; background: transparent; padding-bottom:2px; border-bottom: 1px dotted #666; }
+
+* html .viewer pre {
+	margin-left: 0em;
+}
+
+.viewer hr {
+	border: 0;
+	border-top: solid 1px #333;
+ margin: 0 8em;
+	color: #333;
+}
+
+.viewer a.button {color:#000; border:1px solid #1D65BC; font-weight:bold;}
+
+.viewer a.button:hover{color:#fff; background:#3371a3; text-decoration:none;}
+
+.tagClear {clear:none;}
+
+.toolbar .button {color:#bbb; border:none;}
+.toolbar .button:hover, .toolbar .highlight, .toolbar .marked, .toolbar a.button:active {background:transparent; color:#111; border:none; text-decoration:underline;}
+
+
+.tiddler {border-bottom:3px solid #EEF1F3; padding-bottom:2em; padding-top:0em;}
+.title {border-bottom:none; margin-right:8em;}
+
+h1,h2,h3,h4,h5 { color: #333; background: transparent; padding-bottom:2px; border-bottom: none; }
+
+.viewer pre, .viewer code {
+border: 1px solid #B2B6BE;
+background: #EBEEF1;} 
+
+
+
+.tagging, .tagged {
+	border: 1px solid #dbdee3;
+	background-color: #ebeef1;
+}
+
+.selected .tagging, .selected .tagged {
+	background-color: #dbdee3;
+	border: 1px solid #B2B6BE;
+}
+
+ .tagging .listTitle, .tagged .listTitle {
+	color: #bbb;
+}
+
+.selected .tagging .listTitle, .selected .tagged .listTitle {
+	color: #014; 
+}
+
+.tagging .button:hover, .tagged .button:hover {
+		border: none; background:transparent; text-decoration:underline; color:#014;
+}
+
+.tagged .highlight, .tagged .marked, .tagged a.button:active {text-decoration:underline; background:transparent; color:#014;}
+
+.tagging .button, .tagged .button {
+		color:#bbb;
+}
+
+.selected .tagging .button, .selected .tagged .button {
+		color:#014;
+}
+
+.viewer blockquote {
+	border-left:7px solid #ebeef1;
+}
+
+.viewer table {
+	border: 1px solid #3371a3;
+}
+
+.viewer th, thead td {
+	background: #3371a3;
+	border: 1px solid #3371a3;
+	color: #fff;
+}
+
+.viewer td, .viewer tr {
+	border: 1px solid #3371a3;
+}
+&lt;/pre&gt;&lt;h3&gt;Editor&lt;/h3&gt;&lt;pre&gt;* html .editor textarea, * html .editor input {
+	width: 98%;
+}
+.editor input, .editor textarea {
+	border: 1px solid #1d65bc; background:#ebeef1;
+}
+
+.editor {padding-top:0.3em;}
+
+.editor textarea:focus, .editor input:focus {
+	border: 1px inset #3371a3; background:#fff;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Sidebar&lt;/h1&gt;&lt;pre&gt;#sidebar{
+position:relative;
+float:right;
+margin-bottom:1em;
+display:inline;
+width: 16em;
+}
+
+
+#sidebar .tabSelected, #sidebar .tabSected:hover {
+ color: #000;
+ background: #dbdee3;
+ border-top: solid 1px #B2B6BE;
+ border-left: solid 1px #B2B6BE;
+ border-right: solid 1px #B2B6BE;
+ border-bottom:solid 1px #dbdee3 !important;
+padding-bottom:1px;
+text-decoration:none;
+}
+
+#sidebarOptions, #sidebarTabs  {border-left: 1px solid #B2B6BE;}
+#sidebarTabs {border-bottom: 1px solid #B2B6BE;}
+
+
+
+#sidebar .tabUnselected, #sidebar .tabUnselected:hover {
+color: #F0F3F5;
+background: #B2B6BE ;
+border: solid 1px #B2B6BE ;
+padding-bottom:1px;
+}
+
+#sidebarTabs .tabContents {border:none; background:#DBDEE3; }
+
+#sidebarTabs .tabContents {border-top:1px solid #B2B6BE;}
+
+#sidebarTabs .tabContents .tabContents {border-left:1px solid #b2b6be;}
+
+#sidebarOptions .sliderPanel {
+	background: #EBEEF1; border:none;
+}
+
+#sidebarOptions input {
+	border: 1px solid #1d65bc;
+}
+
+#sidebarOptions input:hover, #sidebarOptions input:active,  #sidebarOptions input:focus {
+	border: 1px inset #3371a3;
+}
+
+#sidebar {background: #EBEEF1 ; right:0;}
+
+#sidebar .button:active, #sidebar .marked, #sidebar .highlight {color:#014; background:transparent;text-decoration:none}
+&lt;/pre&gt;&lt;br&gt;&lt;h2&gt;Popups&lt;/h2&gt;&lt;pre&gt;.popup {
+	background: #3371a3;
+	border: 1px solid #333;
+}
+
+.popup hr {
+	color: #333;
+	background: #333;
+	border-bottom: 1px;
+}
+
+.popup li.disabled {
+	color: #333;
+}
+
+.popup li a, .popup li a:visited {
+	color: #eee;
+	border: none;
+}
+
+.popup li a:hover {
+	background: #3371a3;
+	color: #fff;
+	border: none;
+        text-decoration:underline;
+}
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Message Area&lt;/h2&gt;&lt;pre&gt;#messageArea {
+	border: 2px dashed #3371a3;
+	background: #dbdee3;
+	color: #fff;
+        font-size:90%;
+}
+
+#messageArea .button {
+	color: #1d65bc;
+	background: #ebeef1;
+        text-decoration:none;
+        font-weight:bold;
+        border:none; 
+}
+
+#messageArea a.button {color:#1d65bc;}
+
+#messageArea .button:hover {text-decoration:underline;}
+&lt;/pre&gt;&lt;h2&gt;Tabs&lt;/h2&gt;&lt;pre&gt;.viewer .tabSelected, .viewer .tabSelected:hover{
+	color: #014;
+	background: #eee;
+	border-left: 1px solid #B2B6BE;
+	border-top: 1px solid #B2B6BE;
+	border-right: 1px solid #B2B6BE;
+}
+
+.viewer .tabUnselected, .viewer .tabUnselected:hover {
+	color: #fff;
+	background: #B2B6BE;
+}
+
+. viewer .tabContents {
+	color: #014;
+	background: #ebeef1;
+	border: 1px solid #B2B6BE;
+}
+&lt;/pre&gt;.blog h2, .blog h3, .blog h4{&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to margin:0&quot; href=&quot;margin:0&quot; class=&quot;externalLink&quot;&gt;margin:0&lt;/a&gt;;&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to padding:0&quot; href=&quot;padding:0&quot; class=&quot;externalLink&quot;&gt;padding:0&lt;/a&gt;;&lt;br&gt;border-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:none&quot; href=&quot;bottom:none&quot; class=&quot;externalLink&quot;&gt;bottom:none&lt;/a&gt;;&lt;br&gt;}&lt;br&gt;.blog {margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1.5em&quot; href=&quot;left:1.5em&quot; class=&quot;externalLink&quot;&gt;left:1.5em&lt;/a&gt;;}  &lt;br&gt;&lt;br&gt;&lt;br&gt;.blog .excerpt {&lt;br&gt;  &lt;a target=&quot;_blank&quot; title=&quot;External link to margin:0&quot; href=&quot;margin:0&quot; class=&quot;externalLink&quot;&gt;margin:0&lt;/a&gt;;&lt;br&gt;margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to top:0.3em&quot; href=&quot;top:0.3em&quot; class=&quot;externalLink&quot;&gt;top:0.3em&lt;/a&gt;;&lt;br&gt;  padding: 0;&lt;br&gt;  margin-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1em&quot; href=&quot;left:1em&quot; class=&quot;externalLink&quot;&gt;left:1em&lt;/a&gt;;&lt;br&gt;  padding-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1em&quot; href=&quot;left:1em&quot; class=&quot;externalLink&quot;&gt;left:1em&lt;/a&gt;;&lt;br&gt;  font-&lt;a target=&quot;_blank&quot; title=&quot;External link to size:90&quot; href=&quot;size:90&quot; class=&quot;externalLink&quot;&gt;size:90&lt;/a&gt;%;&lt;br&gt;  border-&lt;a target=&quot;_blank&quot; title=&quot;External link to left:1px&quot; href=&quot;left:1px&quot; class=&quot;externalLink&quot;&gt;left:1px&lt;/a&gt; solid #ddd;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;tiddlerWhatsNew h1, #tiddlerWhatsNew h2 {border-&lt;a target=&quot;_blank&quot; title=&quot;External link to bottom:none&quot; href=&quot;bottom:none&quot; class=&quot;externalLink&quot;&gt;bottom:none&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;div[tags~=&quot;&lt;a tiddlylink=&quot;RecentUpdates&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#RecentUpdates&quot; href=&quot;http://www.tiddlywiki.com/#RecentUpdates&quot; class=&quot;externalLink&quot;&gt;RecentUpdates&lt;/a&gt;&quot;], div[tags~=&quot;lewcidExtension&quot;] {margin-bottom: 2em;}&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;topMenu .fontResizer {&lt;a target=&quot;_blank&quot; title=&quot;External link to float:right&quot; href=&quot;float:right&quot; class=&quot;externalLink&quot;&gt;float:right&lt;/a&gt;;}&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;topMenu .fontResizer .button{&lt;a target=&quot;_blank&quot; title=&quot;External link to border:1px&quot; href=&quot;border:1px&quot; class=&quot;externalLink&quot;&gt;border:1px&lt;/a&gt; solid #3371A3;}&lt;/li&gt;&lt;li&gt;topMenu .fontResizer .&lt;a target=&quot;_blank&quot; title=&quot;External link to button:hover&quot; href=&quot;button:hover&quot; class=&quot;externalLink&quot;&gt;button:hover&lt;/a&gt; {&lt;a target=&quot;_blank&quot; title=&quot;External link to border:1px&quot; href=&quot;border:1px&quot; class=&quot;externalLink&quot;&gt;border:1px&lt;/a&gt; solid #fff; &lt;a target=&quot;_blank&quot; title=&quot;External link to color:#3371A3&quot; href=&quot;color:#3371A3&quot; class=&quot;externalLink&quot;&gt;color:#3371A3&lt;/a&gt;;}&lt;/li&gt;&lt;li&gt;sidebarTabs .txtMainTab .tiddlyLinkExisting {&lt;/li&gt;&lt;/ol&gt; font-weight: normal;&lt;br&gt; font-style: normal;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;sidebarTabs .txtMoreTab .tiddlyLinkExisting {&lt;/li&gt;&lt;/ol&gt; font-weight: bold;&lt;br&gt; font-style: normal;&lt;br&gt;}</description>
+<category>K2BlogTheme</category>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#StyleSheet</link>
+<pubDate>Thu, 31 Jan 2008 11:36:00 GMT</pubDate>
+</item>
+<item>
+<title>WikiHome</title>
+<description>This wiki hosts relevant informations about the projects I'm currently developing.&lt;br&gt;At the current time I'm working for an upcoming italian startup.</description>
+<category>navigation</category>
+<category>info</category>
+<link>http://www.tiddlywiki.com/#WikiHome</link>
+<pubDate>Thu, 31 Jan 2008 11:35:00 GMT</pubDate>
+</item>
+<item>
+<title>DefaultTiddlers</title>
+<description>&lt;a tiddlylink=&quot;WikiHome&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#WikiHome&quot; href=&quot;http://www.tiddlywiki.com/#WikiHome&quot; class=&quot;externalLink&quot;&gt;WikiHome&lt;/a&gt;&lt;br&gt;&lt;a tiddlylink=&quot;About this Wiki&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#About this Wiki&quot; href=&quot;http://www.tiddlywiki.com/#About%20this%20Wiki&quot; class=&quot;externalLink&quot;&gt;About this Wiki&lt;/a&gt;</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#DefaultTiddlers</link>
+<pubDate>Thu, 31 Jan 2008 11:21:00 GMT</pubDate>
+</item>
+<item>
+<title>ColorPalette</title>
+<description>Background: #fff&lt;br&gt;Foreground: #000&lt;br&gt;&lt;a tiddlylink=&quot;PrimaryPale&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#PrimaryPale&quot; href=&quot;http://www.tiddlywiki.com/#PrimaryPale&quot; class=&quot;externalLink&quot;&gt;PrimaryPale&lt;/a&gt;: #888&lt;br&gt;&lt;a tiddlylink=&quot;PrimaryLight&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#PrimaryLight&quot; href=&quot;http://www.tiddlywiki.com/#PrimaryLight&quot; class=&quot;externalLink&quot;&gt;PrimaryLight&lt;/a&gt;: #ccc&lt;br&gt;&lt;a tiddlylink=&quot;PrimaryMid&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#PrimaryMid&quot; href=&quot;http://www.tiddlywiki.com/#PrimaryMid&quot; class=&quot;externalLink&quot;&gt;PrimaryMid&lt;/a&gt;: #666&lt;br&gt;&lt;a tiddlylink=&quot;PrimaryDark&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#PrimaryDark&quot; href=&quot;http://www.tiddlywiki.com/#PrimaryDark&quot; class=&quot;externalLink&quot;&gt;PrimaryDark&lt;/a&gt;: #111&lt;br&gt;&lt;a tiddlylink=&quot;SecondaryPale&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SecondaryPale&quot; href=&quot;http://www.tiddlywiki.com/#SecondaryPale&quot; class=&quot;externalLink&quot;&gt;SecondaryPale&lt;/a&gt;: #ddd&lt;br&gt;&lt;a tiddlylink=&quot;SecondaryLight&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SecondaryLight&quot; href=&quot;http://www.tiddlywiki.com/#SecondaryLight&quot; class=&quot;externalLink&quot;&gt;SecondaryLight&lt;/a&gt;: #fff&lt;br&gt;&lt;a tiddlylink=&quot;SecondaryMid&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SecondaryMid&quot; href=&quot;http://www.tiddlywiki.com/#SecondaryMid&quot; class=&quot;externalLink&quot;&gt;SecondaryMid&lt;/a&gt;: #aaa&lt;br&gt;&lt;a tiddlylink=&quot;SecondaryDark&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#SecondaryDark&quot; href=&quot;http://www.tiddlywiki.com/#SecondaryDark&quot; class=&quot;externalLink&quot;&gt;SecondaryDark&lt;/a&gt;: #444&lt;br&gt;&lt;a tiddlylink=&quot;TertiaryPale&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#TertiaryPale&quot; href=&quot;http://www.tiddlywiki.com/#TertiaryPale&quot; class=&quot;externalLink&quot;&gt;TertiaryPale&lt;/a&gt;: #eee&lt;br&gt;&lt;a tiddlylink=&quot;TertiaryLight&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#TertiaryLight&quot; href=&quot;http://www.tiddlywiki.com/#TertiaryLight&quot; class=&quot;externalLink&quot;&gt;TertiaryLight&lt;/a&gt;: #ccc&lt;br&gt;&lt;a tiddlylink=&quot;TertiaryMid&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#TertiaryMid&quot; href=&quot;http://www.tiddlywiki.com/#TertiaryMid&quot; class=&quot;externalLink&quot;&gt;TertiaryMid&lt;/a&gt;: #999&lt;br&gt;&lt;a tiddlylink=&quot;TertiaryDark&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#TertiaryDark&quot; href=&quot;http://www.tiddlywiki.com/#TertiaryDark&quot; class=&quot;externalLink&quot;&gt;TertiaryDark&lt;/a&gt;: #666&lt;br&gt;Error: #f88</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#ColorPalette</link>
+<pubDate>Thu, 31 Jan 2008 11:14:00 GMT</pubDate>
+</item>
+<item>
+<title>LoremIpsum</title>
+<description>&lt;h1&gt;heading 1&lt;/h1&gt;&lt;h2&gt;heading 2&lt;/h2&gt;&lt;h3&gt;heading3&lt;/h3&gt;&lt;hr&gt;&lt;a tag=&quot;button&quot; class=&quot;button&quot; title=&quot;Show tiddlers tagged with 'button'&quot; href=&quot;javascript:;&quot;&gt;button&lt;/a&gt;&lt;br&gt;This is a link to a &lt;a tiddlylink=&quot;StyleSheet&quot; refresh=&quot;link&quot; target=&quot;_blank&quot; title=&quot;External link to http://www.tiddlywiki.com/#StyleSheet&quot; href=&quot;http://www.tiddlywiki.com/#StyleSheet&quot; class=&quot;externalLink&quot;&gt;StyleSheet&lt;/a&gt; tiddler.&lt;br&gt;&lt;br&gt;&lt;blockquote&gt; This is a blockquote&lt;br&gt; This is a blockquote&lt;br&gt; This is a blockquote&lt;br&gt;&lt;/blockquote&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;thead&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;th colspan=&quot;3&quot; align=&quot;center&quot;&gt;This is a header&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;column1&lt;/td&gt;&lt;td&gt;column2&lt;/td&gt;&lt;td&gt;column3&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;row2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;row2&lt;/td&gt;&lt;td&gt;row2&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;column1&lt;/td&gt;&lt;td&gt;column2&lt;/td&gt;&lt;td&gt;column3&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;row2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;row2&lt;/td&gt;&lt;td&gt;row2&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;column1&lt;/td&gt;&lt;td&gt;column2&lt;/td&gt;&lt;td&gt;column3&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;row2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;row2&lt;/td&gt;&lt;td&gt;row2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+<link>http://www.tiddlywiki.com/#LoremIpsum</link>
+<pubDate>Thu, 31 Jan 2008 11:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Undergoing projects</title>
+<description>Projects I'm currently involved in:&lt;br&gt;+ AATTA&lt;br&gt;+ Visual VXML&lt;br&gt;+ Secure Chat</description>
+<category>navigation</category>
+<link>http://www.tiddlywiki.com/#%5B%5BUndergoing%20projects%5D%5D</link>
+<pubDate>Thu, 31 Jan 2008 10:59:00 GMT</pubDate>
+</item>
+<item>
+<title>SiteSubtitle</title>
+<description>Projects and related documents - Nicola Orritos</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SiteSubtitle</link>
+<pubDate>Thu, 31 Jan 2008 10:06:00 GMT</pubDate>
+</item>
+<item>
+<title>SiteTitle</title>
+<description>Projects Wiki</description>
+<category>admin</category>
+<link>http://www.tiddlywiki.com/#SiteTitle</link>
+<pubDate>Thu, 31 Jan 2008 10:06:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

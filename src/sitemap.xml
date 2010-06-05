@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/index.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/agenda.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/cv.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/whitepapers.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/contacts.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.4</priority>
+	</url>
+	
+	<url>
+		<loc>http://nicolaorry.altervista.org/illustrations.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	
+	<!-- url>
+		<loc>http://www.adrive.com/public/0de25eb81bfd30f406b6b7c92516ed414dd291dd3d7466dbdb2fd79474247a49.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://www.adrive.com/public/c69fd849bc473376f7557bee4261e1ae8a5f8b99048c47c02ae95edc44fcb14b.html</loc>
+		<lastmod>2007-12-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url -->
+	
+</urlset>

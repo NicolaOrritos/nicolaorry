@@ -1,0 +1,46 @@
+
+.blackBkgr {
+	background: #222222;
+	color: #ffffff;
+}
+
+.grayText {
+	color: #222222;
+}
+
+.borderAll {
+	padding: 6px;
+	margin-left: 0px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	margin-right: 16px;
+	border: 1px solid #bdd;
+}
+
+.borderRight {
+	margin-left: 0px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	
+	padding-right: 16px;
+	margin-right: 16px;
+	border-right: 1px solid #bdd;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.alignRight {
+	text-align: right;
+}
+
+h1 a {
+	text-decoration: none;
+	color: #222222;
+}
+
