@@ -1,4 +1,25 @@
 
+
+body {
+	background: #e0e2e2;
+}
+
+
+#footerLeftPart {
+	float: left;
+	background: #e0e2e2 url("../_images/base-pattern.png") repeat-x scroll bottom left;
+	min-height: 360px;
+	width: 100%;
+}
+
+#footerRightPart {
+	float: right;
+	background: #e0e2e2 url("../_images/base.png") no-repeat scroll bottom right;
+	min-height: 360px;
+	min-width: 554px;
+}
+
+
 .blackBkgr {
 	background: #222222;
 	color: #ffffff;
