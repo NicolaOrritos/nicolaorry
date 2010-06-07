@@ -11,6 +11,20 @@ body {
 	padding-top: 24px;
 }
 
+#header h1 {
+	color: #C0C0C0;
+	text-shadow: 0px 0px 5px #222;
+}
+
+#header h1 a {
+	text-decoration: none;
+}
+
+#content {
+	color: #233;
+	text-shadow: -1px 0 #e2e3e3, 0 1px #e2e3e3, 1px 0 #e2e3e3, 0 -1px #e2e3e3, 0px 0px 2px #000;
+}
+
 #footerLeftPart {
 	float: left;
 	background: #e0e2e2 url("../_images/base-pattern.png") repeat-x scroll bottom left;
@@ -69,11 +83,5 @@ body {
 
 .alignRight {
 	text-align: right;
-}
-
-h1 {
-	text-decoration: none;
-	color: #AAA;
-	text-shadow: 1px 1px #888, -1px -1px #333;
 }
 
